@@ -1,0 +1,16 @@
+.reservation-card {
+  border: 10px solid teal;
+  background-color: white;
+  width: 20em;
+  height: 15em;
+  margin: 1em;
+  border-radius: 25px;
+  color: teal;
+}
+
+.cancel-button {
+  background-color: teal;
+  color: white;
+  width: 25%;
+  border-radius: 10px;
+}
